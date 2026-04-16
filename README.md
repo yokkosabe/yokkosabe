@@ -1,6 +1,6 @@
 <h1 align="center">🐬 yokkosabe </h1>
 
-<h3 align="center"> Junior Python developer. Development of Discord/Telegram bots.</h3>
+<h3 align="center"> Python developer. Development of Discord/Telegram bots.</h3>
 
 <div align="center">
 
