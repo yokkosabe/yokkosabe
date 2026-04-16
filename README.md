@@ -3,6 +3,12 @@
 <h3 align="center"> Junior Python developer. Development of Discord/Telegram bots.</h3>
 
 <div align="center">
+
+[![Telegram](https://img.shields.io/badge/Telegram-24a1de?logo=telegram&logoColor=white)](https://t.me/hatesociabilitys) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/users/514825729205075978)
+
+</div>
+
+<div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=technologyhell&theme=bear&hide_border=true" width="50%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=technologyhell&theme=bear&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="36%" /> </br>
 </div>
